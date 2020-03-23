@@ -6,6 +6,15 @@ categories: Podcasts
 ---
 To any software engineer who wishes his or her day had more social interaction, I recommend listening to podcasts! While they do not explicitly provide social interaction, listening to casual conversation and banter can feel like a replacement for the real thing. I love podcasts because they are a low-effort way to learn new information. Even if you are not fully tuned in, it can still improve your technical communication skills, and you will notice that you pick up "key words" that you can search in your browser to read more in depth.
 
+My top 3:
+
+1) Reply All by Gimlet
+
+2) The Stack Overflow Podcast
+
+3) Microsoft Cloud IT Pro Podcast
+
+
 ```javascript
 const Razorpay = require('razorpay');
 
