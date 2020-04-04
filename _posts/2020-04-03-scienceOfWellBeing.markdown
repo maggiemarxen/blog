@@ -2,7 +2,7 @@
 layout: post
 title:  "The Science of Well-being (And applying it to my work life)"
 date:   2020-04-03 10:20:13 -0600
-categories: Podcasts
+categories: Podcasts, Education
 ---
 
 During the quarantine, I spent some of my newfound time studying Laurie Santos's "The Science of Well-being" course on Coursera. I also listened to most episodes of her podcast, "The Happiness Lab," and combined notes for both learnings.
